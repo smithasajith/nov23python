@@ -1,4 +1,4 @@
 a=10
-b=20
+b=50
 c=a+b
 print("Sum =",c)
